@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What fields would you like to include in the form? (e.g., amount, currency type)\", \"option1\": \"Amount and currency type\", \"option2\": \"Detailed user information and amount\"}, {\"question 2\": \"How would you like the form to be designed? (e.g., minimalist or detailed layout)\", \"option1\": \"Minimalist layout\", \"option2\": \"Detailed layout with descriptions\"}], \"input_token_count\": 519, \"output_token_count\": 100, \"time_taken\": \"0:00:03.149447\"}",
+        "message_id": "guest19112024151648",
+        "timestamp": "19112024151655",
+        "component_file_name": "simple_footer_component_1732028438",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll implement a form for swapping crypto now.",
         "message_id": "guest19112024151648",

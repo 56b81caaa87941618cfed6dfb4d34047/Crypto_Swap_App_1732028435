@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the AI to change the background to blue. The AI acknowledged this request, confirming that it would change the background to blue. Following this, the AI asked the user to describe the project in more detail, indicating a desire for more information. The AI also noted its training data is current up to October 2023.\nUser: change the background to blue\nAI: Sure, I'm changing the background to blue now.\nAI: Sure, I'm changing the background color to pink now.\nUser: change the background color to pink\n\nThis is the user's current request of changes to be made:\nchange the backgorund to red"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nadd a form"
     }
 ]

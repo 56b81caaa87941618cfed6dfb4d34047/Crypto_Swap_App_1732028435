@@ -15,6 +15,12 @@
                     © 2023 SwapCrypt. All rights reserved. Trade responsibly. Cryptocurrency trading involves risks.
                 </div>
             </div>
+            <div class="mt-8">
+                <form id="footer-form" class="flex flex-col items-center">
+                    <input type="email" placeholder="Enter your email" class="w-full md:w-64 px-4 py-2 mb-4 text-gray-700 bg-white border rounded-md focus:border-blue-400 focus:outline-none focus:ring focus:ring-blue-300 focus:ring-opacity-40">
+                    <button type="submit" class="px-4 py-2 text-white bg-blue-500 rounded-md hover:bg-blue-600 focus:outline-none focus:bg-blue-600">Subscribe</button>
+                </form>
+            </div>
         </div>
     </footer>
 </template>
@@ -28,5 +34,14 @@ export default {
             tab: null,
         };
     },
+    methods: {
+        // Form submission method
+        submitForm(event) {
+            event.preventDefault();
+            // Add your form submission logic here
+            console.log('Form submitted');
+        }
+        // End of form submission method
+    }
 }
 </script>

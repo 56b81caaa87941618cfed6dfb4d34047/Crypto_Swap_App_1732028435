@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific information do you want to collect in the form?\", \"option1\": \"User's contact information\", \"option2\": \"User's cryptocurrency preferences\"}, {\"question 2\": \"Where do you want this form to be displayed in the app?\", \"option1\": \"On the main dashboard\", \"option2\": \"In a dedicated section for user settings\"}], \"input_token_count\": 264, \"output_token_count\": 88, \"time_taken\": \"0:00:02.493214\"}",
+        "message_id": "guest19112024150906",
+        "timestamp": "19112024150914",
+        "component_file_name": "simple_footer_component_1732028438",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll start adding the form as requested.",
         "message_id": "guest19112024150906",

@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: change the background to blue\n\nThis is the user's current request of changes to be made:\nchange the background to blue"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: change the background color to pink\nAI: Sure, I\u2019m changing the background to blue now.\nUser: change the background to blue\n\nThis is the user's current request of changes to be made:\nchange the background color to pink"
     }
 ]

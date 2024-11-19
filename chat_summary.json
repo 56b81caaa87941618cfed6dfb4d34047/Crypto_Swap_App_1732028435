@@ -1,5 +1,11 @@
 [
     {
+        "role": "user",
+        "content": "change the background to blue",
+        "timestamp": "19112024150113",
+        "message_id": "guest19112024150112"
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",

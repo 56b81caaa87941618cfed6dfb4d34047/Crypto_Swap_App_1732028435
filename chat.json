@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of blue are you envisioning for the background?\", \"option1\": \"Light blue\", \"option2\": \"Dark blue\"}, {\"question 2\": \"Do you want the blue background to be solid or have any patterns or gradients?\", \"option1\": \"Solid\", \"option2\": \"With patterns/gradients\"}], \"input_token_count\": 285, \"output_token_count\": 82, \"time_taken\": \"0:00:01.424886\"}",
+        "message_id": "guest19112024150112",
+        "timestamp": "19112024150116",
+        "component_file_name": "simple_footer_component_1732028438",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019m changing the background to blue now.",
         "message_id": "guest19112024150112",

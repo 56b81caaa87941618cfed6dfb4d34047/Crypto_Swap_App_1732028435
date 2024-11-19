@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of pink do you envision for the background?\", \"option1\": \"Light pink\", \"option2\": \"Vibrant pink\"}, {\"question 2\": \"Would you like any specific elements to contrast with the pink background?\", \"option1\": \"Yes, I'd like contrasting colors for buttons.\", \"option2\": \"No, the pink should be the main focus.\"}], \"input_token_count\": 308, \"output_token_count\": 91, \"time_taken\": \"0:00:02.100590\"}",
+        "message_id": "guest19112024150158",
+        "timestamp": "19112024150202",
+        "component_file_name": "simple_cta_component_1732028438",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm changing the background color to pink now.",
         "message_id": "guest19112024150158",

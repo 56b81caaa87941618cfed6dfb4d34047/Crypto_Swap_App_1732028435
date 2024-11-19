@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a crypto swap form with input fields for cryptocurrency type and amount\", \"checked\": true}, {\"feature\": \"Include a confirmation button after the form submission\", \"checked\": false}, {\"feature\": \"Display real-time exchange rates next to the input fields\", \"checked\": false}, {\"feature\": \"Add a transaction history section to view previous swaps\", \"checked\": false}, {\"feature\": \"Implement a user feedback section for form submission\", \"checked\": false}], \"input_token_count\": 473, \"output_token_count\": 109, \"time_taken\": \"0:00:02.124190\"}",
+        "message_id": "guest19112024151648",
+        "timestamp": "19112024151659",
+        "component_file_name": "simple_footer_component_1732028438",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What fields would you like to include in the form? (e.g., amount, currency type)\", \"option1\": \"Amount and currency type\", \"option2\": \"Detailed user information and amount\"}, {\"question 2\": \"How would you like the form to be designed? (e.g., minimalist or detailed layout)\", \"option1\": \"Minimalist layout\", \"option2\": \"Detailed layout with descriptions\"}], \"input_token_count\": 519, \"output_token_count\": 100, \"time_taken\": \"0:00:03.149447\"}",
         "message_id": "guest19112024151648",

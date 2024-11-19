@@ -1,9 +1,3 @@
-<!--
-INSTRUCTION: Summary: This component contains the app's logo and name in a large, bold font, and on the same line.
-INSTRUCTION: There is an additional line of subtext underneath the first line.
-INSTRUCTION: Both of these lines are center aligned.
--->
-
 <template>
     <footer id="footer-section" class="flex-1 bg-white dark:bg-gray-800">
         <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
@@ -11,7 +5,7 @@ INSTRUCTION: Both of these lines are center aligned.
             <div id="footer-content" class="text-center">
                 <div class="flex">
                     <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
-                        <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
+                        <img id="footer-logo" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Crypto_Swap_App_1732028435/main/images/3e7d895a6b9c4f5fab65044e1a874c8b.jpeg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
                         SwapCrypt
                     </a>
                 </div>

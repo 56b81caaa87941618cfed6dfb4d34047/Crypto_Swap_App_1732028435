@@ -20,7 +20,7 @@
             </div>
             <!-- Right section containing image -->
             <div id="hero-image-container" class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img id="hero-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Crypto_Swap_App_1732028435/main/images/bc92e7e454a74274974ca56cf9e7d3b7.jpeg" alt="hero image">
+                <img id="hero-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Crypto_Swap_App_1732028435/main/images/00fe08b68e6b480585fe76eb275106db.jpeg" alt="hero image">
             </div>
         </div>
     </section>

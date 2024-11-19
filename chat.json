@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of red are you envisioning for the background?\", \"option1\": \"Bright red\", \"option2\": \"Dark red\"}, {\"question 2\": \"Would you like this red background to have any patterns or textures?\", \"option1\": \"Yes, I prefer a textured background\", \"option2\": \"No, a solid red color is fine.\"}], \"input_token_count\": 392, \"output_token_count\": 88, \"time_taken\": \"0:00:01.431078\"}",
+        "message_id": "guest19112024150647",
+        "timestamp": "19112024150651",
+        "component_file_name": "simple_hero_component_1732028438",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the backgorund to red",
         "message_id": "guest19112024150647",

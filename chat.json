@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm changing the background color to pink now.",
+        "message_id": "guest19112024150158",
+        "timestamp": "19112024150159",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background color to pink",
         "message_id": "guest19112024150158",

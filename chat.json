@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a form for swapping crypto",
+        "message_id": "guest19112024151648",
+        "timestamp": "19112024151650",
+        "component_file_name": "simple_footer_component_1732028438",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"User registration form\", \"checked\": true}, {\"feature\": \"Feedback form for user experience\", \"checked\": false}, {\"feature\": \"KYC (Know Your Customer) verification form\", \"checked\": false}, {\"feature\": \"Swap transaction confirmation form\", \"checked\": true}, {\"feature\": \"Contact us form for support\", \"checked\": false}], \"input_token_count\": 218, \"output_token_count\": 87, \"time_taken\": \"0:00:01.846907\"}",
         "message_id": "guest19112024150906",
